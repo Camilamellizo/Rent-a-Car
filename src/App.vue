@@ -31,7 +31,7 @@
 
 
 <script>
-//import { computed } from '@vue/reactivity';
+
 import CarAlquiler from './components/CarAlquiler.vue'
 
 

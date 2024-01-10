@@ -1,24 +1,9 @@
-# aprendiendo-vue
+# Rent a Car
 
-## Project setup
-```
-npm install
-```
+## Welcome! 👋
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This challenges help to improve coding skills by building realistic projects.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+In this case we recreated the Starbucks page, making it responsive for all types of screens.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**To do this challenge, you need a basic understanding of HTML, CSS and Javascript.**

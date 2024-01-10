@@ -45,7 +45,7 @@ export default {
   }),
 
   methods: {
-    final() {
+    final() {                      //creo un objeto con informacion y lo envio con los props
       this.baucher = {
         'nombre':this.nombre,
         'apellidos':this.apellidos,
