@@ -8,5 +8,5 @@ In this case we recreated the Starbucks page, making it responsive for all types
 
 **To do this challenge, you need a basic understanding of HTML, CSS and Javascript.**
 
-![https://github.com/Camilamellizo/Starbucks_Rewards](https://raw.githubusercontent.com/Camilamellizo/Starbucks_Rewards/main/1.jpg)
+![https://github.com/Camilamellizo/aprendiendo-vue](https://raw.githubusercontent.com/Camilamellizo/Rent-a-Car/main/rent-a-car.png)
 
